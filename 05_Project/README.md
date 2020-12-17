@@ -1,6 +1,3 @@
-# final-project-group-9
-final-project-group-9 created by GitHub Classroom
-
 Author:
 Jongwon Lee leejojo@iu.edu http://jongwon.net
 
@@ -12,4 +9,4 @@ Reference for source code:
 2. word cloud: https://stackoverflow.com/questions/16645799/how-to-create-a-word-cloud-from-a-corpus-in-python
 
 Keyword:
-Natural Language, Naïve Bayes Classification, CountVectorizer, NLTK, Lemmatizer, stopword, wordcloud, GridsearchCV, ROC, AUC
+Natural Language, Naïve Bayes Classification, CountVectorizer, NLTK, Lemmatizer, stop word, word cloud, GridsearchCV, ROC, AUC
